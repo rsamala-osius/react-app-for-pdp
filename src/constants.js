@@ -1,0 +1,5 @@
+const GET_ITEMS = "GET_ITEMS";
+export const GET_ITEMS_ERROR = "GET_ITEMS_ERROR";
+
+export const SET_SELECTED_PRODUCT = "SET_SELECTED_PRODUCT";
+export default GET_ITEMS;

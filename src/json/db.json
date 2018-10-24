@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "id": "4856268",
+      "productUrl": "/product-description",
+      "name": "Via Spiga Faux-Fur-Collar Asymmetrical Coat",
+      "brandname": "Via Spiga",
+      "productname": "Faux-Fur-Collar Asymmetrical Coat",
+      "brand": "Charter Club",
+      "primaryImage": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/3746404_fpx.tif?bgc=255,255,255&wid=224&qlt=90,0,0&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+      "price": "80",
+      "product-name": "AGOLDE",
+      "product-description": "Hello Blade Skinny Fit Jeans in Cash Blue",
+      "color": "Cash Blue",
+      "size": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "qty": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "stock": "Usaully leaves our facility within 2 business days.",
+      "details": [
+        "Fits true to size, order your normal size",
+        "Skinny: extra narrow from hip to ankle for an ultra-skinny modern fit",
+        " inseam; 13 leg opening; 10.5 front rise, based on size 32",
+        "Model measurements: 6'2 height, 38 chest, 30 waist, 34 inseam, wearing a size 32",
+        "Zip fly with button closure, five-pocket silhouette",
+        "Contrast stitching, silver-tone and gold-tone hardware, belt loops",
+        "Whiskered, faded, destroyed",
+        "Cotton/elastane",
+        "Machine wash",
+        "Made in USA",
+        "Web ID: 3054165"
+      ]
+    },
+    {
+      "id": "4856268",
+      "productUrl": "/product-description",
+      "name": "Via Spiga Faux-Fur-Collar Asymmetrical Coat",
+      "brandname": "Via Spiga",
+      "productname": "Faux-Fur-Collar Asymmetrical Coat",
+      "brand": "Charter Club",
+      "primaryImage": "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/8694533_fpx.tif?bgc=255,255,255&wid=224&qlt=90,0,0&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+      "price": "830",
+      "product-name": "AGOLDE",
+      "product-description": "Blade Skinny Fit Jeans in Cash Blue",
+      "color": "Cash Blue",
+      "size": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "qty": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "stock": "Usaully leaves our facility within 2 business days.",
+      "details": [
+        "Fits true to size, order your normal size",
+        "Skinny: extra narrow from hip to ankle for an ultra-skinny modern fit",
+        " inseam; 13 leg opening; 10.5 front rise, based on size 32",
+        "Model measurements: 6'2 height, 38 chest, 30 waist, 34 inseam, wearing a size 32",
+        "Zip fly with button closure, five-pocket silhouette",
+        "Contrast stitching, silver-tone and gold-tone hardware, belt loops",
+        "Whiskered, faded, destroyed",
+        "Cotton/elastane",
+        "Machine wash",
+        "Made in USA",
+        "Web ID: 3054165"
+      ]
+    }
+  ],
+  "authenticate": {
+    "username": "4rwe",
+    "password": "42343"
+  }
+}

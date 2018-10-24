@@ -1,0 +1,11 @@
+.tiles{
+    padding: 12px;
+    margin: 10px;
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+.cA{
+    cursor: pointer;
+}
