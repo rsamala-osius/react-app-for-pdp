@@ -7,12 +7,13 @@ class ShippingAndReturnComponent extends Component{
                 <div>
                     <h5>SHIPPING & RETURNS</h5>
                     <p>You have 365 days to return most Bloomingdale's purchases. The Final Offer items must be returned within 30 days of the shipment date.
-                        For complete details, see our <a id="linkShip" className="pdp_service_link" href="#">Shipping</a> and <a id="linkReturns" className="pdp_service_link" href="#">Returns </a>
+                        For complete details, see our <a id="linkShip" className="pdp_service_link">Shipping</a> and
+                      <a id="linkReturns" className="pdp_service_link">Returns </a>
                         policies.</p>
                 </div>
-        ) 
-            
-        
+        )
+
+
     }
 }
 

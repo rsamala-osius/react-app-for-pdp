@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Breadcrumb } from 'react-bootstrap';
-import jeans from '../../images/jeans.tif';
+// import jeans from '../../images/jeans.tif';
 
 class ProductDisplayImagesComponent extends Component {
     state = {}
@@ -10,11 +10,8 @@ class ProductDisplayImagesComponent extends Component {
                 <Breadcrumb style={{
                     background: "#fff"
                 }}>
-                    <Breadcrumb.Item href="#">Men</Breadcrumb.Item>
-                    <Breadcrumb.Item href="#">
-                        Jeans
-            </Breadcrumb.Item>
-
+                    <Breadcrumb.Item>Men</Breadcrumb.Item>
+                    <Breadcrumb.Item>Jeans</Breadcrumb.Item>
                 </Breadcrumb>
             </div>
             <div>

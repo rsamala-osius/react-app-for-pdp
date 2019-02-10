@@ -1,13 +1,11 @@
 const express = require('express');
 const app = express();
-var jwt = require('jsonwebtoken');
-var bcrypt = require('bcryptjs');
 // var jsonObj = require('../json/db.json');
-var ProductService = require('./services/product-services');
-var RegistrationAndLoginService = require('./services/login-registration-services');
+const ProductService = require('./services/product-services');
+const RegistrationAndLoginService = require('./services/login-registration-services');
 
 
-var bodyParser = require('body-parser');
+const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
